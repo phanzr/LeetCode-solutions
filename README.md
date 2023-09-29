@@ -1,2 +1,2 @@
 # LeetCode-solutions
-My solutions from LeetCode platform
+Collections of LeetCode site
